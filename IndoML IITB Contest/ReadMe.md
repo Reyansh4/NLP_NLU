@@ -45,3 +45,4 @@ Files Description:
 The model that i have used in the competition is available in the Hugging face website 
 The link for the model used in the development phase: https://huggingface.co/cartesinus/xlm-r-base-amazon-massive-slot
 The link for the model used in the final phase: https://huggingface.co/cartesinus/xlm-r-base-amazon-massive-domain
+
