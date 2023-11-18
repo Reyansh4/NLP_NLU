@@ -1,4 +1,4 @@
-This is a Repository of my Submissions in the Datathon named "Indo ML Datathon" Conducted by Indian Institute of Technology Bombay.
+This is a Repository of my Submissions in the Datathon named "**Indo ML Datathon**" Conducted by Indian Institute of Technology Bombay.
 
 The Competition website URL: https://indoml.in/
 The Datathon website URL: https://sites.google.com/view/datathon-indoml23
@@ -8,7 +8,7 @@ The Contest progressed in two phases
 1)Development_Phase
 2)Final_Phase
 
-PROBLEM STATEMENT
+#**PROBLEM STATEMENT**
 The problem statement is about the intent recognition of the utterances collected and given in the data.
 
 Development Phase:
@@ -17,7 +17,7 @@ You are given the dataset of AMAZONSCIENCE/MASSIVE in JSONL lines format. Then u
 Final Phase:
 You are given a surprise data that that you would train a model and use the model on the massive_test data. Here also your evaluation metrics are considered.
 
-Files Description:
+#**Files Description:**
 
 /Development_phase - Folder that contains all the files regarding my submission in Development Phase of the competition.
 /final_phase - Folder that contains all the files regarding my submission in Final phase of the competition.
