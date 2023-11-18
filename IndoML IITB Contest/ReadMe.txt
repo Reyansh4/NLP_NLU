@@ -39,3 +39,7 @@ Files Description
 /final_phase/modified_data - The json file contains the intent_id and the intent_predicted in the required format for the submission.
 
 **Other details are available in the competition site**
+
+The model that i have used in the competition is available in the Hugging face website 
+The link for the model used in the development phase: https://huggingface.co/cartesinus/xlm-r-base-amazon-massive-slot
+The link for the model used in the final phase: https://huggingface.co/cartesinus/xlm-r-base-amazon-massive-domain
