@@ -35,4 +35,4 @@ Files Description
 /final_phase/massive_test_phase2_data.zip - The zip contains the data is used for the predicting the labels for the final_phase of the competition.
 /final_phase/massive_test_rahul_7.zip - The zip file contains my submission for the final_phase. It basically contains the .predict file that i have used in the Final_Phase submission.
 /final_phase/massive_test_rahul_7.predict - The .predict file contains the intent_id and the intent_predicted.
-/final_phase/modified_data - The json file contains the intent_id and the intent_predicted in the required format for the submission
+/final_phase/modified_data - The json file contains the intent_id and the intent_predicted in the required format for the submission.
