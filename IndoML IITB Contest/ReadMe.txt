@@ -21,8 +21,10 @@ Files Description:
 
 /Development_phase - Folder that contains all the files regarding my submission in Development Phase of the competition.
 /final_phase - Folder that contains all the files regarding my submission in Final phase of the competition.
-/IndoML_IITB_contest.ipynb - The Python Notebook that consists all the code regarding the Development of the model
-/ReadMe.txt - The file that consists all the required Description of all the files
+/IndoML_IITB_contest.ipynb - The Python Notebook that consists all the code regarding the Development of the model.
+/ReadMe.txt - The file that consists all the required Description of all the files.
+/Development_Phase_result.png - The screenshot of the LeaderBoard position i have scored in the Development_Phase of the competition.
+/Final_Phase_result.png - The screenshot of the LeaderBoard position i have scored in the Final_Phase of the competition.
 
 /Development_Phase/public_data.zip - This files contains all the data that is used in the Development_Phase
 /Development_Phase/massive_test_rahul_2.zip - This zip file contains my best submission for the Development_Phase. it basically contains the .predict file
