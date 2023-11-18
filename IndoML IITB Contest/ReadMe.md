@@ -18,7 +18,7 @@ You are given the dataset of AMAZONSCIENCE/MASSIVE in JSONL lines format. Then u
 Final Phase:
 You are given a surprise data that that you would train a model and use the model on the massive_test data. Here also your evaluation metrics are considered.
 
-# **Files Description**
+# **FILES DEASCRIPTION**
 
 /Development_phase - Folder that contains all the files regarding my submission in Development Phase of the competition.</br>
 /final_phase - Folder that contains all the files regarding my submission in Final phase of the competition.</br>
