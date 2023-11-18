@@ -17,7 +17,7 @@ You are given the dataset of AMAZONSCIENCE/MASSIVE in JSONL lines format. Then u
 Final Phase:
 You are given a surprise data that that you would train a model and use the model on the massive_test data. Here also your evaluation metrics are considered.
 
-Files Description
+Files Description:
 
 /Development_phase - Folder that contains all the files regarding my submission in Development Phase of the competition.
 /final_phase - Folder that contains all the files regarding my submission in Final phase of the competition.
@@ -38,7 +38,7 @@ Files Description
 /final_phase/massive_test_rahul_7.predict - The .predict file contains the intent_id and the intent_predicted.
 /final_phase/modified_data - The json file contains the intent_id and the intent_predicted in the required format for the submission.
 
-**Other details are available in the competition site**
+**Other details are available on the competition site**
 
 The model that i have used in the competition is available in the Hugging face website 
 The link for the model used in the development phase: https://huggingface.co/cartesinus/xlm-r-base-amazon-massive-slot
