@@ -9,6 +9,7 @@ The Contest progressed in two phases
 2)Final_Phase
 
 PROBLEM STATEMENT
+The problem statement is about the intent recognition of the utterances collected and given in the data.
 
 Development Phase:
 You are given the dataset of AMAZONSCIENCE/MASSIVE in JSONL lines format. Then use the dataset to a prepare a model that get the highest evaluation metrics.
