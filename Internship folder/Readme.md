@@ -3,10 +3,11 @@ This Repository contains the work that I have done in Internship with Suvidha Fo
 </br>
 
 # **DETAILS**
- ** Research paper:- ** (Link)[https://arxiv.org/pdf/1704.04368.pdf]</br>
- ** Statement:- ** Text Summarization for News Articles </br>
- ** Dataset:- ** Dailymail/CNN Dataset </br>
- ** Description ** </br>
+Research paper:- [Link](https://arxiv.org/pdf/1704.04368.pdf)
+</br>
+Statement:- Text Summarization for News Articles </br>
+Dataset:- Dailymail/CNN Dataset </br>
+Description</br>
  In this repository I created two type of Models</br>
  1. A Sequence to Sequence Attention Model (For Abstractive Summarization)</br>
  2. A Pretrained BERT Model/Library (For Extractive Summarization)</br>
