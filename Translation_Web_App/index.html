@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>My Translator</h1>
+        <div class="translation-container">
+            <textarea id="inputText" placeholder="Enter text to translate"></textarea>
+            <textarea id="outputText" placeholder="Translation will appear here" readonly></textarea>
+        </div>
+        <div class="switch-container">
+            <label for="translationDirection">Translate from:</label>
+            <select id="translationDirection">
+                <option value="en-de">English to German</option>
+                <option value="de-en">German to English</option>
+            </select>
+        </div>
+        <button id="translateButton">Translate</button>
+    </div>
+    <script src="script.js" type="module"></script>
+</body>
+</html>
