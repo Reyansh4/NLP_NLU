@@ -6,5 +6,6 @@ Get your won Hugging Face API Key with READ Permission.
 
 Follow this tutorial
 
+https://youtu.be/3paGIPQxM38
 
 HAPPY CODING.....!!!!
